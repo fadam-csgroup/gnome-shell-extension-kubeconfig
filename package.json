@@ -11,7 +11,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/vvbogdanov87/gnome-shell-extension-kubeconfig.git"
+        "url": "git+https://github.com/fadam-csgroup/gnome-shell-extension-kubeconfig.git"
     },
     "keywords": [
         "gnome",
@@ -24,9 +24,9 @@
     "author": "vvbogdanov87@gmail.com",
     "license": "GPL-3.0",
     "bugs": {
-        "url": "https://github.com/vvbogdanov87/gnome-shell-extension-kubeconfig/issues"
+        "url": "https://github.com/fadam-csgroup/gnome-shell-extension-kubeconfig/issues"
     },
-    "homepage": "https://github.com/vvbogdanov87/gnome-shell-extension-kubeconfig#readme",
+    "homepage": "https://github.com/fadam-csgroup/gnome-shell-extension-kubeconfig#readme",
     "devDependencies": {
         "eslint": "^8.56.0"
     }

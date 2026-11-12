@@ -17,7 +17,7 @@ Install command and logout/login to proceed to install extension itself.
 
 ```bash
 # tl;dr clone repo, run make install
-(cd /tmp && git clone https://github.com/vvbogdanov87/gnome-shell-extension-kubeconfig.git)
+(cd /tmp && git clone https://github.com/fadam-csgroup/gnome-shell-extension-kubeconfig.git)
 
 (cd /tmp/gnome-shell-extension-kubeconfig && \
     make install)

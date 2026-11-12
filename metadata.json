@@ -1,8 +1,8 @@
 {
     "name": "Kube Config",
     "description": "Switches kube config context",
-    "uuid": "kube_config@mochacaffe.github.com",
-    "url": "https://github.com/MochaCaffe/gnome-shell-extension-kubeconfig.git",
+    "uuid": "kube_config@fadam-csgroup.github.com",
+    "url": "https://github.com/fadam-csgroup/gnome-shell-extension-kubeconfig.git",
     "settings-schema": "org.gnome.shell.extensions.kube-config",
     "shell-version": [
         "47",

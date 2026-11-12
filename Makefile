@@ -1,5 +1,5 @@
 INSTALLBASE = $(HOME)/.local/share/gnome-shell/extensions
-INSTALLNAME = kube_config@vvbogdanov87.gmail.com
+INSTALLNAME = kube_config@fadam-csgroup.github.com
 NAME = kube_config
 
 BASE_MODULES = extension.js metadata.json LICENSE README.md
